@@ -1,6 +1,8 @@
-#Hackaton
-##Tic tac toe
-###by Raphael Boussidan
+ #Hackaton
+ ##Tic tac toe
+ ###by Raphael Boussidan
+ I made a tic tac toe for the hackaton of Developer Institut.
+ It takes me 2 days to develop it.
 I made a tic tac toe for the hackaton of Developer Institut.
 It takes me 2 days to develop it.
  
