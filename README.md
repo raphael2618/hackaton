@@ -20,9 +20,8 @@ It takes me 2 days to develop it.
  
  # Capture of the game
  
- 
  ![alt text](tic_tac_toe.PNG)
  
- # Demo of the game
+ # Demo of the game tic
  
- [Video](https://drive.google.com/file/d/1x5c-n-oNG7SmViWUibzYtEn39eVbsfdi/view?usp=sharing)
+ [![Watch the video](tic_tac_toe.PNG)](https://drive.google.com/file/d/1x5c-n-oNG7SmViWUibzYtEn39eVbsfdi/view?usp=sharing)
